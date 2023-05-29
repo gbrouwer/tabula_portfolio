@@ -11,13 +11,17 @@
 #h3 3 - Approach and Model
 #pg And this is where I came in. I was tasked with building a model that would score the images in terms of how objectionable the images were considered to be while the NLP team continued analyzing the text. The approach I took was the following. 
 
-1. A training data set was created by extracting images from websites where the NLP team had scored either as very objectionable or not objectionable. 
+#br
+#pg 1. A training data set was created by extracting images from websites where the NLP team had scored either as very objectionable or not objectionable. 
 
-2. The images extracted from the questionable websites were clustered by feeding them to a pretrained image classification algorithm. This model (AlexNet, see figure 1) was trained on 1000 image categories (the ImageNet dataset), so each objectionable image thus yielded a 1000-element vector of probabilities. It was in this 1000-dimensional numerical space that the clustering algorithm was applied. Clustering images in the original format (say 256 by 256 pixels) is computationally expensive and makes relatively little sense. Images depicting the same object typically vary significantly in their pixel-by-pixel values (see figure 2). 
+#br
+#pg 2. The images extracted from the questionable websites were clustered by feeding them to a pretrained image classification algorithm. This model (AlexNet, see figure 1) was trained on 1000 image categories (the ImageNet dataset), so each objectionable image thus yielded a 1000-element vector of probabilities. It was in this 1000-dimensional numerical space that the clustering algorithm was applied. Clustering images in the original format (say 256 by 256 pixels) is computationally expensive and makes relatively little sense. Images depicting the same object typically vary significantly in their pixel-by-pixel values (see figure 2). 
 
-3. When I felt I had an optimal number of clusters (the first iteration of the model used 21), I manually inspected them and determined that, indeed, most of them were clusters of images that a typical user would deem inappropriate (I will leave it up to the imagination of the reader what kind of categories those were) I retrained the original  1000-category model but adding the 21 clusters as additional categories.
+#br
+#pg 3. When I felt I had an optimal number of clusters (the first iteration of the model used 21), I manually inspected them and determined that, indeed, most of them were clusters of images that a typical user would deem inappropriate (I will leave it up to the imagination of the reader what kind of categories those were) I retrained the original  1000-category model but adding the 21 clusters as additional categories.
 
-4. After I was satisfied with the newly trained model, I created a few simple metrics that turned the output of the 1021-category model into a score indicating how objectionable they were considered to be. The metric was a simple weighted average of the 1000 original categories versus the 21 newly objectionable categories. The NLP team then integrated this score into their existing scoring metric system. 
+#br
+#pg 4. After I was satisfied with the newly trained model, I created a few simple metrics that turned the output of the 1021-category model into a score indicating how objectionable they were considered to be. The metric was a simple weighted average of the 1000 original categories versus the 21 newly objectionable categories. The NLP team then integrated this score into their existing scoring metric system. 
 
 #im ../assets/content/2.png 50 192 Figure 2 - Images depicting the same object can vary significantly on a pixel by pixel basis
 

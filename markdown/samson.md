@@ -1,5 +1,3 @@
-#h1 Virtual Companion Samson
-
 #h3 1 - Goal
 #pg Samson is a concept project I introduced to my innovation team while working at Memorial Sloan Kettering, a large oncology center in New York City. As if cancer isn't already enough of a burden, imagine a child with cancer. In pain, fear, and confusion, unable to express themselves to convey what is wrong and what hurts, and alone. Sometimes children might need to be isolated after a bone marrow transplant. 
 
