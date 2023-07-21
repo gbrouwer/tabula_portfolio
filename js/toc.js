@@ -6,6 +6,29 @@ let toc_content = [
 	'</ul>' +
 	'</li>'];
 
+toc_content.push(
+	'<li>' +
+	'<a href="#">Cover Letter</a>' +
+	'<ul class="nolist">' +
+	'<li><a href="cover_letter.html">Cover Letter</a></li>' +
+	'</ul>' +
+	'</li>');
+
+toc_content.push(
+	'<li>' +
+	'<a href="#">Resume</a>' +
+	'<ul class="nolist">' +
+	'<li><a href="resume.html">Resume</a></li>' +
+	'<li><a href="resume.html#1">1 - Biographic Information</a></li>' +
+	'<li><a href="resume.html#2">2 - Areas of Expertise</a></li>' +
+	'<li><a href="resume.html#3">3 - Experience</a></li>' +
+	'<li><a href="resume.html#4">4 - Eduction</a></li>' +
+	'<li><a href="resume.html#5">5 - Patents</a></li>' +
+	'<li><a href="resume.html#6">6 - Theoretical, technical, and programming skills</a></li>' + 
+	'<li><a href="resume.html#7">7 - Selected Publications</a></li>' +
+	'<li><a href="resume.html#8">8 - Extracurricular</a></li>' +
+	'</ul>' +
+	'</li>');
 
 toc_content.push(
 	'<li>' +
@@ -40,6 +63,31 @@ toc_content.push(
 	'<a href="#">Publications</a>' +
 	'<ul class="nolist">' +
 	'<li><a href="publications.html">Publications</a></li>' +
+	'</ul>' +
+	'</li>');
+
+toc_content.push(
+	'<li>' +
+	'<a href="#">Spatial Audio Mural Tour</a>' +
+	'<ul class="nolist">' +
+	'<li><a href="spatial_audio_mural_tour.html">Spatial Audio Mural Tour</a></li>' +
+	'<li><a href="spatial_audio_mural_tour.html#1">1 - Goal</a></li>' +
+	'<li><a href="spatial_audio_mural_tour.html#2">2 - Innovation</a></li>' +
+	'<li><a href="spatial_audio_mural_tour.html#3">3 - Impact</a></li>' +
+	'<li><a href="spatial_audio_mural_tour.html#4">4 - Alternatives</a></li>' +
+	'<li><a href="spatial_audio_mural_tour.html#5">5 - Technologies Used</a></li>' +
+	'</ul>' +
+	'</li>');
+
+toc_content.push(
+	'<li>' +
+	'<a href="#">Joining Voices</a>' +
+	'<ul class="nolist">' +
+	'<li><a href="joining_voices.html">Joining Voices</a></li>' +
+	'<li><a href="joining_voices.html#1">1 - Goal</a></li>' +
+	'<li><a href="joining_voices.html#2">2 - Innovation</a></li>' +
+	'<li><a href="joining_voices.html#3">3 - Impact</a></li>' +
+	'<li><a href="joining_voices.html#5">4 - Technologies Used</a></li>' +
 	'</ul>' +
 	'</li>');
 

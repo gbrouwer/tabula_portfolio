@@ -822,9 +822,17 @@ Swarm Intelligence and Evolutionary Algorithms#qs 100
 #qs 100
 #qr
 #qc ../assets/resized_300x450_whiteborder/T3-zzgEACAAJ.png test
-#qc Gilbert 1900-1976 Ryle@The Concept of Mind; 0@This work has been selected by scholars as being culturally important and is part of the knowledge base of civilization as we know it. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. To ensure a quality reading experience, this work has been proofread and republished using a format that seamlessly blends the original graphical elements with text in an easy-to-read typeface. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.
+#qc Gilbert Ryle@The Concept of Mind@This work has been selected by scholars as being culturally important and is part of the knowledge base of civilization as we know it. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. To ensure a quality reading experience, this work has been proofread and republished using a format that seamlessly blends the original graphical elements with text in an easy-to-read typeface. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.
 #ql
 #qe
+
+#qs 100
+#qr
+#qc ../assets/resized_300x450_whiteborder/1L34DwAAQBAX.png test
+#qc Mizuko Ito@Algorithmic Rights and Protections for Children@One in three Internet users worldwide is a child, and what children see and experience online is increasingly shaped by algorithms. Though children’s rights and protections are at the center of debates on digital privacy, safety, and Internet governance, the dominant online platforms have not been constructed with the needs and interests of children in mind. The editors of this volume, Mizuko Ito, Remy Cross, Karthik Dinakar, and Candice Odgers, focus on understanding diverse children’s evolving relationships with algorithms, digital data, and platforms and offer guidance on how stakeholders can shape these relationships in ways that support children’s agency and protect them from harm.  This book includes essays reporting original research on educational programs in AI relational robots and Scratch programming, on children’s views on digital privacy and artificial intelligence, and on discourses around educational technologies. Shorter opinion pieces add the perspectives of an instructional designer, a social worker, and parents. The contributing social, behavioral, and computer scientists represent perspectives and contexts that span education, commercial tech platforms, and home settings. They analyze problems and offer solutions that elevate the voices and agency of parents and children. Their essays also build on recent research examining how social media, digital games, and learning technologies reflect and reinforce unequal childhoods.
+#ql
+#qe
+
 
 #qs 100
 #qr
@@ -835,7 +843,7 @@ Swarm Intelligence and Evolutionary Algorithms#qs 100
 
 #qs 100
 #qr
-#qc ../assets/resized_300x450_whiteborder/cI8aUoloUkUC.png test
+#qc ../assets/resized_300x450_whiteborder/31GYiR-tGeL.png test
 #qc Anthony Stevens@Jung: A Very Short Introduction@Though he was a prolific writer and an original thinker of vast erudition, Jung lacked a gift for clear exposition and his ideas are less widely appreciated than they deserve. In this concise introduction, Anthony Stevens explains clearly the basic concepts of Jungian psychology: the collective unconscious, complex, archetype, shadow, persona, anima, animus, and the individuation of the Self. He examines Jung's views on such disparate subjects as myth, religion, alchemy, sychronicity, and the psychology of gender differences, and he devotes separate chapters to the stages of life, Jung's theory of psychological types, the interpretation of dreams, the practice of Jungian analysis, and to the unjust allegation that Jung was a Nazi sympathizer. Finally, he argues that Jung's visionary powers and profound spirituality have helped many to find an alternative set of values to the arid materialism prevailing in Western society. ABOUT THE SERIES: The Very Short Introductions series from Oxford University Press contains hundreds of titles in almost every subject area. These pocket-sized books are the perfect way to get ahead in a new subject quickly. Our expert authors combine facts, analysis, perspective, new ideas, and enthusiasm to make interesting and challenging topics highly readable.
 #ql
 #qe
@@ -1129,13 +1137,6 @@ Swarm Intelligence and Evolutionary Algorithms#qs 100
 
 #qs 100
 #qr
-#qc ../assets/resized_300x450_whiteborder/QdpZz_ahA5UC.png test
-#qc Alan Fersht@Structure and Mechanism in Protein Science@Includes four new chapters which focus on the repercussions of protein engineering for protein folding and catalysis, this new edition is a more general guide to mechanism in protein science.
-#ql
-#qe
-
-#qs 100
-#qr
 #qc ../assets/resized_300x450_whiteborder/Jqg9EAAAQBAJ.png test
 #qc James Bridle@Ways of Being@Artist, technologist, and philosopher James Bridles Ways of Being is a brilliant, searching exploration of different kinds of intelligence—plant, animal, human, artificial—and how they transform our understanding of humans’ place in the cosmos. What does it mean to be intelligent? Is it something unique to humans or shared with other beings— beings of flesh, wood, stone, and silicon? The last few years have seen rapid advances in artificial intelligence. But rather than a friend or companion, AI increasingly appears to be something stranger than we ever imagined, an alien invention that threatens to decenter and supplant us. At the same time, we’re only just becoming aware of the other intelligences that have been with us all along, even if we’ve failed to recognize or acknowledge them. These others—the animals, plants, and natural systems that surround us—are slowly revealing their complexity, agency, and knowledge, just as the technologies we’ve built to sustain ourselves are threatening to cause their extinction and ours. What can we learn from them, and how can we change ourselves, our technologies, our societies, and our politics to live better and more equitably with one another and the nonhuman world? The artist and maverick thinker James Bridle draws on biology and physics, computation, literature, art, and philosophy to answer these unsettling questions. Startling and bold, Ways of Being explores the fascinating, strange, and multitudinous forms of knowing, doing, and being that make up the world, and that are essential for our survival. Includes illustrations
 #ql
@@ -1144,7 +1145,7 @@ Swarm Intelligence and Evolutionary Algorithms#qs 100
 #qs 100
 #qr
 #qc ../assets/resized_300x450_whiteborder/60kxtAEACAAJ.png test
-#qc Geert Verschaeve@Badass Ways to End Anxiety & Stop Panic Attacks! - A Counterintuitive Approach to Recover and Regain Control of Your Life.@This book will uncover science-based and counterintuitive techniques that are designed to end unwanted anxiety and to stop panic attacks. They have been tried and tested both by the author Geert Verschaeve (who suffered from generalized anxiety and panic attacks for fourteen years) and the thousands of people who suffered from anxiety he has helped ever since.
+#qc Geert Verschaeve@Badass!@This book will uncover science-based and counterintuitive techniques that are designed to end unwanted anxiety and to stop panic attacks. They have been tried and tested both by the author Geert Verschaeve (who suffered from generalized anxiety and panic attacks for fourteen years) and the thousands of people who suffered from anxiety he has helped ever since.
 #ql
 #qe
 
@@ -1291,7 +1292,7 @@ Swarm Intelligence and Evolutionary Algorithms#qs 100
 #qs 100
 #qr
 #qc ../assets/resized_300x450_whiteborder/XhaT6YMWDuwC.png test
-#qc Elias Aboujaoude@Virtually You: The Dangerous Powers of the E-Personality@Explores the new phenomenon of the e-personality which allows people to act online with more exaggerated confidence, sexiness, and charisma than they would in person, and discusses how real life is being reconfigured by the Internet.
+#qc Elias Aboujaoude@Virtually You@Explores the new phenomenon of the e-personality which allows people to act online with more exaggerated confidence, sexiness, and charisma than they would in person, and discusses how real life is being reconfigured by the Internet.
 #ql
 #qe
 
@@ -1313,6 +1314,13 @@ Swarm Intelligence and Evolutionary Algorithms#qs 100
 #qr
 #qc ../assets/resized_300x450_whiteborder/3TiaAAAAQBAJ.png test
 #qc Ben Ramalingam@Aid on the Edge of Chaos@Aid has become a tangle of donors and recipients, so unwieldy that it is in danger of collapse. This ground-breaking book presents fresh thinking that transcends the more verses less arguments. Drawing on complexity theory it shows how aid could be transformed into a truly dynamic form of global cooperation fit for the twenty-first century.
+#ql
+#qe
+
+#qs 100
+#qr
+#qc ../assets/resized_300x450_whiteborder/712NB2pnF4L.png test
+#qc Paul Crickard@Data engineering with Python@Data engineering provides the foundation for data science and analytics, and forms an important part of all businesses. This book will help you to explore various tools and methods that are used for understanding the data engineering process using Python.  The book will show you how to tackle challenges commonly faced in different aspects of data engineering. You’ll start with an introduction to the basics of data engineering, along with the technologies and frameworks required to build data pipelines to work with large datasets. You’ll learn how to transform and clean data and perform analytics to get the most out of your data. As you advance, you'll discover how to work with big data of varying complexity and production databases, and build data pipelines. Using real-world examples, you’ll build architectures on which you’ll learn how to deploy data pipelines. By the end of this Python book, you’ll have gained a clear understanding of data modeling techniques, and will be able to confidently build data engineering pipelines for tracking data, running quality checks, and making necessary changes in production.
 #ql
 #qe
 
@@ -1437,7 +1445,7 @@ Swarm Intelligence and Evolutionary Algorithms#qs 100
 #qs 100
 #qr
 #qc ../assets/resized_300x450_whiteborder/HhU3AgAAQBAJ.png test
-#qc C. G. Jung@Collected Works of C.G. Jung, Volume 9 (Part 1)@Essays which state the fundamentals of Jungs psychological system: On the Psychology of the Unconscious and The Relations Between the Ego and the Unconscious, with their original versions in an appendix.
+#qc C. G. Jung@Collected Works of C.G. Jung, Volume 9@Essays which state the fundamentals of Jungs psychological system: On the Psychology of the Unconscious and The Relations Between the Ego and the Unconscious, with their original versions in an appendix.
 #ql
 #qe
 
@@ -1933,7 +1941,7 @@ Swarm Intelligence and Evolutionary Algorithms#qs 100
 
 #qs 100
 #qr
-#qc ../assets/resized_300x450_whiteborder/cLhVjQGs83QC.png test
+#qc ../assets/resized_300x450_whiteborder/91qzmL2yesL.png test
 #qc Neil Gaiman@American Gods@Shadow is a man with a past. But now he wants nothing more than to live a quiet life with his wife and stay out of trouble. Until he learns that she's been killed in a terrible accident. Flying home for the funeral, as a violent storm rocks the plane, a strange man in the seat next to him introduces himself. The man calls himself Mr. Wednesday, and he knows more about Shadow than is possible. He warns Shadow that a far bigger storm is coming. And from that moment on, nothing will ever he the same...
 #ql
 #qe
@@ -2277,7 +2285,7 @@ Swarm Intelligence and Evolutionary Algorithms#qs 100
 #qs 100
 #qr
 #qc ../assets/resized_300x450_whiteborder/OuupDwAAQBAJ.png test
-#qc Merlin Sheldrake@Entangled Life@NEW YORK TIMES BESTSELLER • A “brilliant [and] entrancing” (The Guardian) journey into the hidden lives of fungi—the great connectors of the living world—and their astonishing and intimate roles in human life, with the power to heal our bodies, expand our minds, and help us address our most urgent environmental problems. “Grand and dizzying in how thoroughly it recalibrates our understanding of the natural world.”—Ed Yong, author of I Contain Multitudes ONE OF THE BEST BOOKS OF THE YEAR—Time, BBC Science Focus, The Daily Mail, Geographical, The Times, The Telegraph, New Statesman, London Evening Standard, Science Friday When we think of fungi, we likely think of mushrooms. But mushrooms are only fruiting bodies, analogous to apples on a tree. Most fungi live out of sight, yet make up a massively diverse kingdom of organisms that supports and sustains nearly all living systems. Fungi provide a key to understanding the planet on which we live, and the ways we think, feel, and behave. In Entangled Life, the brilliant young biologist Merlin Sheldrake shows us the world from a fungal point of view, providing an exhilarating change of perspective. Sheldrake’s vivid exploration takes us from yeast to psychedelics, to the fungi that range for miles underground and are the largest organisms on the planet, to those that link plants together in complex networks known as the “Wood Wide Web,” to those that infiltrate and manipulate insect bodies with devastating precision. Fungi throw our concepts of individuality and even intelligence into question. They are metabolic masters, earth makers, and key players in most of life’s processes. They can change our minds, heal our bodies, and even help us remediate environmental disaster. By examining fungi on their own terms, Sheldrake reveals how these extraordinary organisms—and our relationships with them—are changing our understanding of how life works. Winner of the Wainwright Prize, the Royal Society Science Book Prize, and the Guild of Food Writers Award • Shortlisted for the British Book Award • Longlisted for the Rathbones Folio Prize
+#qc Merlin Sheldrake@Entangled Life@When we think of fungi, we likely think of mushrooms. But mushrooms are only fruiting bodies, analogous to apples on a tree. Most fungi live out of sight, yet make up a massively diverse kingdom of organisms that supports and sustains nearly all living systems. Fungi provide a key to understanding the planet on which we live, and the ways we think, feel, and behave.  In the first edition of this mind-bending book, Sheldrake introduced us to this mysterious but massively diverse kingdom of life. This exquisitely designed volume, abridged from the original, features more than one hundred full-color images that bring the spectacular variety, strangeness, and beauty of fungi to life as never before.  Fungi throw our concepts of individuality and even intelligence into question. They are metabolic masters, earth makers, and key players in most of life’s processes. They can change our minds, heal our bodies, and even help us remediate environmental disaster. By examining fungi on their own terms, Sheldrake reveals how these extraordinary organisms—and our relationships with them—are changing our understanding of how life works.
 #ql
 #qe
 
@@ -3033,6 +3041,34 @@ Swarm Intelligence and Evolutionary Algorithms#qs 100
 #qr
 #qc ../assets/resized_300x450_whiteborder/-I6BDwAAQBAJ.png test
 #qc Julian Togelius@Playing Smart@A new vision of the future of games and game design, enabled by AI. Can games measure intelligence? How will artificial intelligence inform games of the future? In Playing Smart, Julian Togelius explores the connections between games and intelligence to offer a new vision of future games and game design. Video games already depend on AI. We use games to test AI algorithms, challenge our thinking, and better understand both natural and artificial intelligence. In the future, Togelius argues, game designers will be able to create smarter games that make us smarter in turn, applying advanced AI to help design games. In this book, he tells us how. Games are the past, present, and future of artificial intelligence. In 1948, Alan Turing, one of the founding fathers of computer science and artificial intelligence, handwrote a program for chess. Today we have IBM's Deep Blue and DeepMind's AlphaGo, and huge efforts go into developing AI that can play such arcade games as Pac-Man. Programmers continue to use games to test and develop AI, creating new benchmarks for AI while also challenging human assumptions and cognitive abilities. Game design is at heart a cognitive science, Togelius reminds us—when we play or design a game, we plan, think spatially, make predictions, move, and assess ourselves and our performance. By studying how we play and design games, Togelius writes, we can better understand how humans and machines think. AI can do more for game design than providing a skillful opponent. We can harness it to build game-playing and game-designing AI agents, enabling a new generation of AI-augmented games. With AI, we can explore new frontiers in learning and play.
+#ql
+#qe
+
+#qs 100
+#qr
+#qc ../assets/resized_300x450_whiteborder/81+oMD7Lm7L.png test
+#qc Joe Reis@ Fundamentals of Data Engineering@Data engineering has grown rapidly in the past decade, leaving many software engineers, data scientists, and analysts looking for a comprehensive view of this practice. With this practical book, you'll learn how to plan and build systems to serve the needs of your organization and customers by evaluating the best technologies available through the framework of the data engineering lifecycle. Authors Joe Reis and Matt Housley walk you through the data engineering lifecycle and show you how to stitch together a variety of cloud technologies to serve the needs of downstream data consumers. You'll understand how to apply the concepts of data generation, ingestion, orchestration, transformation, storage, and governance that are critical in any data environment regardless of the underlying technology.
+#ql
+#qe
+
+#qs 100
+#qr
+#qc ../assets/resized_300x450_whiteborder/61zb65rJ5OL.png test
+#qc Nathan W. Pyle@Strange Planet@Straight from the mind of New York Times bestselling author Nathan W. Pyle, Strange Planet is an adorable and profound universe in pink, blue, green, and purple, based on the phenomenally popular Instagram of the same name!
+#ql
+#qe
+
+#qs 100
+#qr
+#qc ../assets/resized_300x450_whiteborder/81WU6ujSSTL.png test
+#qc Nathan W. Pyle@Strange Planet: The Sneaking, Hiding, Vibrating Creature@From New York Times #1 bestselling author, Nathan W. Pyle, comes an out-of-this-world picture book about two aliens who encounter a vibrating creature, based on his Strange Planet series.
+#ql
+#qe
+
+#qs 100
+#qr
+#qc ../assets/resized_300x450_whiteborder/A1g1jQI3mdL.png test
+#qc Michael Tomasello@The Evolution of Agency@A leading developmental psychologist proposes an evolutionary pathway to human psychological agency. Nature cannot build organisms biologically prepared for every contingency they might possibly encounter. Instead, Nature builds some organisms to function as feedback control systems that pursue goals, make informed behavioral decisions about how best to pursue those goals in the current situation, and then monitor behavioral execution for effectiveness. Nature builds psychological agents. In a bold new theoretical proposal, Michael Tomasello advances a typology of the main forms of psychological agency that emerged on the evolutionary pathway to human beings. Tomasello outlines four main types of psychological agency and describes them in evolutionary order of emergence. First was the goal-directed agency of ancient vertebrates, then came the intentional agency of ancient mammals, followed by the rational agency of ancient great apes, ending finally in the socially normative agency of ancient humans. Each new form of psychological organization represented increased complexity in the planning, decision-making, and executive control of behavior. Each also led to new types of experience of the environment and, in some cases, of the organism’s own psychological functioning, leading ultimately to humans’ experience of an objective and normative world that governs all of their thoughts and actions. Together, these proposals constitute a new theoretical framework that both broadens and deepens current approaches in evolutionary psychology.
 #ql
 #qe
 

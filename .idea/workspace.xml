@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4dfcc5bc-2586-4da3-b5f6-ef33ba87aa4a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/html/samson.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/samson.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/photogallery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/photogallery1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/photogallery2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/library_script_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/library_script_2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/toc.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/toc.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/markdown/library.md" beforeDir="false" afterPath="$PROJECT_DIR$/markdown/library.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/markdown/samson.md" beforeDir="false" afterPath="$PROJECT_DIR$/markdown/samson.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/markdown/source_separation.md" beforeDir="false" afterPath="$PROJECT_DIR$/markdown/source_separation.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,13 +33,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/gijsjoostbrouwer/Projects/tabula_portfolio/markdown&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/gijsjoostbrouwer/Projects/tabula_portfolio"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/markdown" />
@@ -54,5 +59,8 @@
       <updated>1672083275546</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
